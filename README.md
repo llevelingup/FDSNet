@@ -1,12 +1,12 @@
-├──FDSNet
+├── FDSNet
 
-│  ├──...
+│  ├── ...
 
-│  ├──...
+│  ├── ...
 
-├──dataset
+├── dataset
 
-   ├──FoodSeg103/UECFoodPixComplete
+   ├── FoodSeg103/UECFoodPixComplete
       ├──Images
           ├──img_dir
               ├──allImage
