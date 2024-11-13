@@ -7,7 +7,6 @@
 ├──dataset
 
    ├──FoodSeg103/UECFoodPixComplete
-   
       ├──Images
           ├──img_dir
               ├──allImage
